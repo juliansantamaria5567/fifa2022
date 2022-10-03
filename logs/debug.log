@@ -1,0 +1,579 @@
+2022-09-20 17:49:50 Notice: Notice (8): Undefined variable: user in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 39]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 39
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:49:50 Notice: Notice (8): Undefined variable: typesIdentification in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 41]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 41
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:49:50 Notice: Notice (8): Undefined variable: groups in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 45]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 45
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:49:50 Notice: Notice (8): Undefined variable: types in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 46]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 46
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:49:50 Notice: Notice (8): Undefined variable: charges in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 47]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:49:50 Notice: Notice (8): Undefined variable: roles in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 48]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 48
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:50:39 Notice: Notice (8): Undefined variable: user in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 39]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index?q=juan+sanchez
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 39
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:50:39 Notice: Notice (8): Undefined variable: typesIdentification in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 41]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index?q=juan+sanchez
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 41
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:50:39 Notice: Notice (8): Undefined variable: groups in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 45]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index?q=juan+sanchez
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 45
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:50:39 Notice: Notice (8): Undefined variable: types in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 46]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index?q=juan+sanchez
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 46
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:50:39 Notice: Notice (8): Undefined variable: charges in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 47]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index?q=juan+sanchez
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:50:39 Notice: Notice (8): Undefined variable: roles in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 48]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index?q=juan+sanchez
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 48
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:54:45 Notice: Notice (8): Undefined variable: user in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 39]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 39
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:54:45 Notice: Notice (8): Undefined variable: typesIdentification in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 41]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 41
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:54:45 Notice: Notice (8): Undefined variable: groups in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 45]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 45
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:54:45 Notice: Notice (8): Undefined variable: types in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 46]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 46
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:54:45 Notice: Notice (8): Undefined variable: charges in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 47]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:54:45 Notice: Notice (8): Undefined variable: roles in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 48]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 48
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:55:54 Notice: Notice (8): Undefined variable: user in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 39]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 39
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:55:54 Notice: Notice (8): Undefined variable: typesIdentification in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 41]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 41
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:55:54 Notice: Notice (8): Undefined variable: groups in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 45]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 45
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:55:54 Notice: Notice (8): Undefined variable: types in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 46]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 46
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:55:54 Notice: Notice (8): Undefined variable: charges in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 47]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:55:54 Notice: Notice (8): Undefined variable: roles in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 48]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 48
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-20 17:57:48 Notice: Notice (8): Undefined variable: groups in [C:\laragon\www\fifa\plugins\AdminTheme\src\Template\Users\add.ctp, line 45]
+Request URL: /fifa/users/add
+Referer URL: http://localhost/fifa/users/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - ROOT\plugins\AdminTheme\src\Template\Users\add.ctp, line 45
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1016
+Cake\View\View::_render() - CORE\src\View\View.php, line 975
+Cake\View\View::render() - CORE\src\View\View.php, line 599
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-21 15:21:48 Notice: Notice (8): Trying to get property of non-object in [C:\laragon\www\fifa\src\Controller\UsersController.php, line 287]
+Request URL: /fifa/users/edit/268
+Referer URL: http://localhost/fifa/users/view/268
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\UsersController::edit() - APP/Controller\UsersController.php, line 287
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-21 15:23:08 Notice: Notice (8): Trying to get property of non-object in [C:\laragon\www\fifa\src\Controller\UsersController.php, line 287]
+Request URL: /fifa/users/edit/268
+Referer URL: http://localhost/fifa/users/view/268
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\UsersController::edit() - APP/Controller\UsersController.php, line 287
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-21 15:23:39 Notice: Notice (8): Trying to get property of non-object in [C:\laragon\www\fifa\src\Controller\UsersController.php, line 287]
+Request URL: /fifa/users/edit/268
+Referer URL: http://localhost/fifa/users/view/268
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\UsersController::edit() - APP/Controller\UsersController.php, line 287
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-21 15:27:00 Notice: Notice (8): Trying to get property of non-object in [C:\laragon\www\fifa\src\Controller\UsersController.php, line 287]
+Request URL: /fifa/users/edit/268
+Referer URL: http://localhost/fifa/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\UsersController::edit() - APP/Controller\UsersController.php, line 287
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-21 15:28:00 Notice: Notice (8): Trying to get property of non-object in [C:\laragon\www\fifa\src\Controller\UsersController.php, line 287]
+Request URL: /fifa/users/edit/268
+Referer URL: http://localhost/fifa/users/view/268
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\UsersController::edit() - APP/Controller\UsersController.php, line 287
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-21 15:28:14 Notice: Notice (8): Trying to get property of non-object in [C:\laragon\www\fifa\src\Controller\UsersController.php, line 287]
+Request URL: /fifa/users/edit/268
+Referer URL: http://localhost/fifa/users/view/268
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\UsersController::edit() - APP/Controller\UsersController.php, line 287
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-21 15:28:39 Notice: Notice (8): Trying to get property of non-object in [C:\laragon\www\fifa\src\Controller\UsersController.php, line 287]
+Request URL: /fifa/users/edit/268
+Referer URL: http://localhost/fifa/users/view/268
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\UsersController::edit() - APP/Controller\UsersController.php, line 287
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-21 15:30:05 Notice: Notice (8): Trying to get property of non-object in [C:\laragon\www\fifa\src\Controller\UsersController.php, line 287]
+Request URL: /fifa/users/edit/268
+Referer URL: http://localhost/fifa/users/view/268
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\UsersController::edit() - APP/Controller\UsersController.php, line 287
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-21 15:30:55 Notice: Notice (8): Trying to get property of non-object in [C:\laragon\www\fifa\src\Controller\UsersController.php, line 287]
+Request URL: /fifa/users/edit/268
+Referer URL: http://localhost/fifa/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\UsersController::edit() - APP/Controller\UsersController.php, line 287
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-21 15:48:09 Notice: Notice (8): Trying to get property of non-object in [C:\laragon\www\fifa\src\Controller\UsersController.php, line 286]
+Request URL: /fifa/users/edit/268
+Referer URL: http://localhost/fifa/users
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\UsersController::edit() - APP/Controller\UsersController.php, line 286
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2022-09-23 16:26:07 Notice: Notice (8): Trying to get property of non-object in [C:\laragon\www\fifa\src\Controller\UsersController.php, line 345]
+Request URL: /fifa/users/edit/282
+Referer URL: http://localhost/fifa/users?q=ARISTIZABAL
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\UsersController::edit() - APP/Controller\UsersController.php, line 345
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 96
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 60
+[main] - ROOT\webroot\index.php, line 37
+
+
+
